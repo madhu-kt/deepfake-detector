@@ -1,2 +1,2 @@
 # deepfake-detector
-Detect DeepFakes using transfer learning
+Detect DeepFakes using pairwise learning on Pytorch.
